@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/a528eb49-24c3-4abb-bd62-36455ad2b8c4)
 
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
@@ -155,8 +155,9 @@
 <br>
 
 <h3 align="center" style="color: #FF6B6B;">Status</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;">
   <a href="https://github.com/SAGIEV007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false" alt="SAGIEV007's Stats"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="SAGIEV007's Top Languages"/>
 </div>
