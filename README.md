@@ -132,9 +132,9 @@
 
 <h2 align="center" style="color: #FF6B6B;">📊 Estatísticas do GitHub</h2>
 
-<p align="center">:round_pushpin: Profile views</p>
+<p align="center">:round_pushpin: Contador de visitas</p>
 <div align="center">
-    <img alt="Contador de visitas" src="https://profile-counter.glitch.me/SAGIEV007/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/SAGIEV007/count.svg">
 </div>
 
 <br>
@@ -155,7 +155,6 @@
 <br>
 
 <h3 align="center" style="color: #FF6B6B;">Status</h3>
-<div align="center">
   <a href="https://github.com/SAGIEV007">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
   </a>
