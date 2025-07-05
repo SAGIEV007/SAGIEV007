@@ -147,14 +147,6 @@
 </div>
 
 <br>
-
-<h3 align="center" style="color: #FF6B6B;">Highlights</h3>
-<div align="center">
-  <a href="https://github.com/SAGIEV007/Mente-Viva">
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="SAGIEV007" />
-  </a>
-</div>
-
 ---
 
 
