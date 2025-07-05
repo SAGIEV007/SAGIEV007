@@ -95,8 +95,10 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 </div>
 
-<p align="center" style="font-size: 1.2em;">
-  🔗 <strong style="color: #FF6B6B;">Explore meu Portfólio para mais detalhes:</strong> <a href="https://fernandofilhods.wixsite.com/portfolio" style="color: #2196F3; text-decoration: none;">https://fernandofilhods.wixsite.com/portfolio</a>
+<p align="center">
+  <a href="https://fernandofilhods.wixsite.com/portfolio">
+    <img src="https://img.shields.io/badge/MEU-PORTFÓLIO-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
+  </a>
 </p>
 
 ---
