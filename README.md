@@ -4,10 +4,10 @@
 
 <br>
 
-<h1 align="center" style="color: #FF6B6B;">Olá! Sou Fernando, um entusiasta de Dados! 👋</h1>
+<h1 align="center" style="color: #FF6B6B;">Seja bem vindo(a)! 👋</h1>
 
 <p align="center">
-  <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="150px">
+  <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
 </p>
 
 <p align="center" style="font-size: 1.2em; color: #333;">
