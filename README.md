@@ -46,31 +46,33 @@
 <h2 align="center" style="color: #FF6B6B;">✨ Meus Projetos em Destaque</h2>
 
 <p align="center" style="font-size: 1.1em; color: #333;">
-  Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:
+  Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:
 </p>
 
 <div align="center">
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 20px; text-align: center;">
-      <a href="https://github.com/SAGIEV007/Mente-Viva">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Mente Viva" />
-      </a>
-      <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
-        <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 
-      </p>
-    </li>
-    <li style="margin-bottom: 20px; text-align: center;">
-      <a href="https://github.com/SAGIEV007/Mente-Viva"> <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
-      </a>
-      <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
-        <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
-      </p>
-    </li>
-  </ul>
+
+  <div style="margin-bottom: 20px; text-align: center;">
+    <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Mente Viva" />
+    </a>
+    <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
+      <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
+    </p>
+  </div>
+
+  <div style="margin-bottom: 20px; text-align: center;">
+    <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
+    </a>
+    <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
+      <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
+    </p>
+  </div>
+
 </div>
 
 <p align="center" style="font-size: 1.2em;">
-  🔗 <strong style="color: #FF6B6B;">Explore meu Portfólio para mais detalhes:</strong> <a href="https://fernandofilhods.wixsite.com/portfolio" style="color: #2196F3; text-decoration: none;">https://fernandofilhods.wixsite.com/portfolio</a>
+  🔗 <strong style="color: #FF6B6B;">Explore meu Portfólio para mais detalhes:</strong> <a href="https://fernandofilhods.wixsite.com/portfolio" style="color: #2196F3; text-decoration: none;">https://fernandofilhods.wixsite.com/portfolio</a>
 </p>
 
 ---
