@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=900&size=40&pause=1000&color=F79316&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-
+https://readme-typing-svg.demolab.com/demo/?font=Libertinus+Mono&weight=100&size=50&color=F79316&width=1200&height=100&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub%F0%9F%90%8D;Welcome+to+my+GitHub+profile%F0%9F%90%8D
 
 
 
