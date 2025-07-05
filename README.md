@@ -6,10 +6,9 @@
       <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
       <ul>
         <li>Cuidando dos meus <strong>gatos</strong> 🐱</li>
-        <li>Imerso no universo dos <strong>Super-Heróis</strong> 🦸‍♂️</li>
+        <li>Assistindo MUITOS animes</strong> 🦸‍♂️</li>
         <li>Explorando novos <strong>jogos</strong> 🎮</li>
         <li>Acompanhando discussões sobre <strong>política</strong> 🗳️</li>
-        <li>Planejando a próxima <strong>viagem</strong> ✈️</li>
       </ul>
     </td>
     <td width="170px" align="center" valign="top">
