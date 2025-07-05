@@ -1,19 +1,21 @@
 
 <table>
-  <tr>
-    <td>
-      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
-      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
-      <ul>
-        <li>Cuidando dos meus gatos, Assistindo MUITOS animes, cozinhando ou jogando
-          asdads
-          asdasd.</li>
-      </ul>
-    </td>
-    <td width="170px" align="center" valign="top">
-      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="300">
-    </td>
-  </tr>
+  <tr>
+    <td>
+      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
+      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
+      <ul>
+        <li>Cuidando dos meus <strong>gatos</strong> 🐱</li>
+        <li>Imerso no universo dos <strong>Super-Heróis</strong> 🦸‍♂️</li>
+        <li>Explorando novos <strong>jogos</strong> 🎮</li>
+        <li>Acompanhando discussões sobre <strong>política</strong> 🗳️</li>
+        <li>Planejando a próxima <strong>viagem</strong> ✈️</li>
+      </ul>
+    </td>
+    <td width="170px" align="center" valign="top">
+      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="160">
+    </td>
+  </tr>
 </table>
 
 
