@@ -9,7 +9,7 @@
       </ul>
     </td>
     <td width="170px" align="center" valign="top">
-      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="350">
+      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="300">
     </td>
   </tr>
 </table>
