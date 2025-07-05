@@ -116,7 +116,6 @@
     <p style="font-size: 1.1em; color: #333;">
       Quando não estou explorando dados ou codificando, você provavelmente me encontrará:
     </p>
-
     <ul style="list-style-type: none; padding: 0; text-align: left;">
       <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Cuidando dos meus <strong style="color: #FF6B6B;">gatos</strong> 🐱</li>
       <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Imerso no universo dos <strong style="color: #2196F3;">Super-Heróis</strong> 🦸‍♂️</li>
