@@ -154,7 +154,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 <p align="center">:round_pushpin: Contador de visitas</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/SAGIEV007/">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/SAGIEV007/count.svg">
 </div>
 
 <br>
