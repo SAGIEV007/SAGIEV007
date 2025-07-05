@@ -60,13 +60,13 @@
       </p>
     </li>
     <li style="margin-bottom: 20px; text-align: center;">
-      <a href="https://github.com/SAGIEV007/Mente-Viva"> <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
+      <a href="https://github.com/SAGIEV007/Mente-Viva">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
       </a>
       <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
         <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
       </p>
     </li>
-
   </ul>
 </div>
 
@@ -99,66 +99,4 @@
 
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
-</p>
-
-
-<table>
-  <tr>
-    <td>
-      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
-      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
-      <ul>
-        <li>Cuidando dos meus gatos, Assistindo MUITOS animes, cozinhando ou jogando.</li>
-      </ul>
-    </td>
-    <td width="170px" align="center" valign="top">
-      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="200px">
-    </td>
-  </tr>
-</table>
-<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
-
-<p align="center" style="font-size: 1.1em; color: #333;">
-  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
-</p>
-
-<p align="center">
-  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
-  </a>
-  <a href="l340fernando@gmail.com" style="margin-right: 20px">
-    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
-  </a>
-</p>
-
----
-
-<h2 align="center" style="color: #FF6B6B;">📊 Estatísticas do GitHub</h2>
-
-<p align="center">:round_pushpin: Contador de visitas</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/SAGIEV007/count.svg">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
-</div>
-
-<br>
-
-
----
-
-
-<br>
-
-<h3 align="center" style="color: #FF6B6B;">Status</h3>
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;">
-  <a href="https://github.com/SAGIEV007">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false" alt="SAGIEV007's Stats"/>
-  </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="SAGIEV007's Top Languages"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.
