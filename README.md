@@ -1,6 +1,6 @@
 ![Capa](./assets/capa)
 
-![rengoku](./assets/Rengoku)
+![rengoku](./assets/Rengoku.gif)
 
 
 Tenho uma paixão crescente por transformar dados brutos em insights poderosos e soluções inovadoras. Atualmente, estou imerso no universo da **Ciência de Dados** na Universidade de Marília, com um olhar sempre atento às possibilidades do **Machine Learning** e da **Inteligência Artificial**.
