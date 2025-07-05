@@ -132,22 +132,16 @@
 </table>
 
 
-<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
-
-<p align="center" style="font-size: 1.1em; color: #333;">
-  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
+<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2><p align="center" style="font-size: 1.1em; color: #333;">
+Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
+</p><p align="center" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI" style="margin-right: 20px; text-decoration: none;">
+<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
+</a>
+<a href="mailto:l340fernando@gmail.com" style="margin-right: 20px; text-decoration: none;">
+<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
+</a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI" style="margin-right: 20px; text-decoration: none;">
-    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
-  </a>
-  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px; text-decoration: none;">
-    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
-  </a>
-</p>
-
----
 
 <h2 align="center" style="color: #FF6B6B;">📊 Estatísticas do GitHub</h2>
 
