@@ -1,24 +1,4 @@
 
-<table>
-  <tr>
-    <td>
-      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
-      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
-      <ul>
-        <li>Cuidando dos meus <strong>gatos</strong> 🐱</li>
-        <li>Assistindo MUITOS animes</strong> 🦸‍♂️</li>
-        <li>Explorando novos <strong>jogos</strong> 🎮</li>
-        <li>Acompanhando discussões sobre <strong>política</strong> 🗳️</li>
-      </ul>
-    </td>
-    <td width="170px" align="center" valign="top">
-      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="300">
-    </td>
-  </tr>
-</table>
-
-
-
 
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
@@ -134,34 +114,37 @@
 
 
 <table>
-  <tr>
-    <td>
-      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
-      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
-      <ul>
-        <li>Cuidando dos meus gatos, Assistindo MUITOS animes, cozinhando ou jogando.</li>
-      </ul>
-    </td>
-    <td width="170px" align="center" valign="top">
-      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="200px">
-    </td>
-  </tr>
+  <tr>
+    <td>
+      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
+      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
+      <ul>
+        <li>Cuidando dos meus <strong>gatos</strong> 🐱</li>
+        <li>Assistindo MUITOS animes</strong> 🦸‍♂️</li>
+        <li>Explorando novos <strong>jogos</strong> 🎮</li>
+        <li>Acompanhando discussões sobre <strong>política</strong> 🗳️</li>
+      </ul>
+    </td>
+    <td width="170px" align="center" valign="top">
+      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="300">
+    </td>
+  </tr>
 </table>
 
 
 <h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
 
 <p align="center" style="font-size: 1.1em; color: #333;">
-  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
+  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
 </p>
 
 <p align="center">
-  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
-  </a>
-  <a href="l340fernando@gmail.com" style="margin-right: 20px">
-    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
-  </a>
+  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
+  </a>
+  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
+  </a>
 </p>
 
 ---
