@@ -21,6 +21,9 @@
   Minha jornada é impulsionada pela curiosidade e pela busca constante por conhecimento. Acredito que a verdadeira magia dos dados reside na capacidade de contar histórias e impulsionar decisões estratégicas. Minha experiência prévia em <strong style="color: #FFC107;">vendas de alto impacto</strong> me equipou com uma habilidade única de <strong style="color: #FFC107;">comunicação persuasiva</strong> e de <strong style="color: #FFC107;">traduzir conceitos complexos</strong> para diferentes públicos – uma ponte valiosa entre o mundo técnico e o estratégico.
 </p>
 
+<p align="center">
+  <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
+</p>
 ---
 
 <h2 align="center" style="color: #FF6B6B;">🚀 O que me move?</h2>
