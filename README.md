@@ -5,10 +5,7 @@
       <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
       <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
       <ul>
-        <li>Cuidando dos meus gatos 🐱</li>
-        <li>Assistindo MUITOS animes 🦸‍♂️</li>
-        <li>Explorando novos jogos 🎮</li>
-        <li>Acompanhando discussões sobre política 🗳️</li>
+        <li>Cuidando dos meus gatos, Assistindo MUITOS animes, cozinhando ou jogando</li>
       </ul>
     </td>
     <td width="170px" align="center" valign="top">
