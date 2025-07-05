@@ -67,7 +67,7 @@
 <h2 align="center" style="color: #FF6B6B;">📚 Habilidades & Ferramentas</h2>
 
 <p align="center">
-  <img src="./assets/pc.gif" alt="GIF PC" width="500px">
+  <img src="./assets/pc.gif" alt="GIF PC" width="350px">
 </p>
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
