@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://fernandofilhods.wixsite.com/portfolio">
-    <img src="https://img.shields.io/badge/MEU-PORTFÓLIO-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
-  </a>
-</p>
+
 
 
 
