@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a528eb49-24c3-4abb-bd62-36455ad2b8c4)
-
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
