@@ -9,9 +9,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=100&size=50&pause=1000&color=F79316&width=1200&height=100&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub%F0%9F%90%8D;Welcome+to+my+GitHub+profile%F0%9F%90%8D)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
-</p>
+---
+
+<h2 align="center" style="color: #FF6B6B;">🙃 Quem sou eu?</h2>
+
 
 <p align="center" style="font-size: 1.2em; color: #333;">
   Tenho uma paixão crescente por transformar dados brutos em insights poderosos e soluções inovadoras. Atualmente, estou imerso no universo da <strong style="color: #2196F3;">Ciência de Dados</strong> na Universidade de Marília, com um olhar sempre atento às possibilidades do <strong style="color: #4CAF50;">Machine Learning</strong> e da <strong style="color: #9C27B0;">Inteligência Artificial</strong>.
