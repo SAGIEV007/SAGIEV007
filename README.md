@@ -140,6 +140,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
+
 ---
 
 <h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
