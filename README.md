@@ -1,20 +1,21 @@
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
-    <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
-    <ul>
-      <li>Cuidando dos meus gatos 🐱</li>
-      <li>Imerso no universo dos Super-Heróis 🦸‍♂️</li>
-      <li>Explorando novos jogos 🎮</li>
-      <li>Acompanhando discussões sobre política 🗳️</li>
-      <li>Planejando a próxima viagem ✈️</li>
-    </ul>
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="150px">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
+      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
+      <ul>
+        <li>Cuidando dos meus gatos 🐱</li>
+        <li>Imerso no universo dos Super-Heróis 🦸‍♂️</li>
+        <li>Explorando novos jogos 🎮</li>
+        <li>Acompanhando discussões sobre política 🗳️</li>
+        <li>Planejando a próxima viagem ✈️</li>
+      </ul>
+    </td>
+    <td width="170px" align="center" valign="top">
+      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="150px">
+    </td>
+  </tr>
+</table>
 
 
 
