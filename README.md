@@ -101,24 +101,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
 </p>
 
----
-
-<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
-
-<p align="center" style="font-size: 1.1em; color: #333;">
-  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
-</p>
-
-<p align="center">
-  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/fernandods0/">
-    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
-  </a>
-</p>
-
----
 
 <table>
   <tr>
@@ -142,16 +124,14 @@
 
 <p align="center">
   <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/fernandods0/">
     <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
+  </a>
+  <a href="l340fernando@gmail.com" style="margin-right: 20px">
+    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
   </a>
 </p>
 
 ---
-
-
 
 <h2 align="center" style="color: #FF6B6B;">📊 Estatísticas do GitHub</h2>
 
