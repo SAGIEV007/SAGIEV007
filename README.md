@@ -2,17 +2,12 @@
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
 <p align="center">
-  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/nezuko" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/fernandods0/">
+    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
+  </a>
 </p>
 
 <br>
@@ -112,23 +107,6 @@
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
-</p>
-
----
-
-<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
-
-<p align="center" style="font-size: 1.1em; color: #333;">
-  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
-</p>
-
-<p align="center">
-  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/fernandods0/">
-    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
-  </a>
 </p>
 
 ---
