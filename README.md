@@ -51,7 +51,6 @@
 
 <div align="center">
   <ul style="list-style-type: none; padding: 0;">
-
     <li style="margin-bottom: 20px; text-align: center;">
       <a href="https://github.com/SAGIEV007/Mente-Viva">
         <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Mente Viva" />
@@ -60,7 +59,6 @@
         <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
       </p>
     </li>
-
     <li style="margin-bottom: 20px; text-align: center;">
       <a href="https://github.com/SAGIEV007/Mente-Viva"> <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
       </a>
