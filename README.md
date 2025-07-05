@@ -38,16 +38,16 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #2196F3;">Análise de Dados:</strong> Mergulhar em conjuntos de dados para descobrir padrões, tendências e informações ocultas. 📊
+    <strong style="color: #2196F3;">Análise de Dados:</strong> Análise de Dados: Investigo conjuntos de informações em busca de padrões, tendências e descobertas que proporcionam conhecimentos relevantes. 📊
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #4CAF50;">Python:</strong> Minha linguagem de escolha para manipulação, análise e modelagem de dados. Aprendizado rápido e aplicação prática são meus lemas! 🐍
+    <strong style="color: #4CAF50;">Python:</strong> Considero minha linguagem preferida para a manipulação, análise e criação de modelos com dados. Valorizo uma aprendizagem rápida e a aplicação prática no cotidiano. 🐍
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #9C27B0;">Machine Learning:</strong> Fascinado pelo potencial de algoritmos para aprender e prever, buscando sempre novas formas de aplicar ML em problemas reais. 🤖
+    <strong style="color: #9C27B0;">Machine Learning:</strong> Aprendizado de Máquina: Tenho entusiasmo pelo potencial dos algoritmos em aprender e realizar previsões. Estou constantemente buscando novas maneiras de aplicar ML em problemas do mundo real. 🤖
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #FFC107;">Comunicação Estratégica:</strong> Transformar resultados técnicos em narrativas claras e acionáveis para impactar o negócio. 🗣️
+    <strong style="color: #FFC107;">Comunicação Estratégica:</strong> Comunicação Estratégica: Gosto de transformar resultados técnicos em histórias claras e objetivas, capazes de gerar impacto nos negócios. 🗣️
   </li>
 </ul>
 
