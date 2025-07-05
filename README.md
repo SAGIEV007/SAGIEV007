@@ -1,5 +1,4 @@
 
-
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
     <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
