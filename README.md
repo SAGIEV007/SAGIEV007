@@ -1,5 +1,5 @@
-<button class="btn-101">
-  Glow Button
+<a href="https://fernandofilhods.wixsite.com/portfolio" class="btn-101">
+  MEU PORTFÓLIO
   <svg>
     <defs>
       <filter id="glow">
@@ -14,8 +14,7 @@
     </defs>
     <rect />
   </svg>
-</button>
-
+</a>
 
 
 
