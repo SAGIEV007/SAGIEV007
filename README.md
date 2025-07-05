@@ -15,12 +15,13 @@
 
 
 <p align="center" style="font-size: 1.2em; color: #333;">
-  Tenho uma paixão crescente por transformar dados brutos em insights poderosos e soluções inovadoras. Atualmente, estou imerso no universo da <strong style="color: #2196F3;">Ciência de Dados</strong> na Universidade de Marília, com um olhar sempre atento às possibilidades do <strong style="color: #4CAF50;">Machine Learning</strong> e da <strong style="color: #9C27B0;">Inteligência Artificial</strong>.
+Tenho uma paixão crescente por transformar dados brutos em insights poderosos e soluções inovadoras. Atualmente, estou imerso no universo da <strong style="color: #2196F3;">Ciência de Dados</strong> na Universidade de Marília, com um olhar sempre atento às possibilidades do <strong style="color: #4CAF50;">Machine Learning</strong> e da <strong style="color: #9C27B0;">Inteligência Artificial</strong>.
 </p>
 
 <p align="center" style="font-size: 1.2em; color: #333;">
-  Minha jornada é impulsionada pela curiosidade e pela busca constante por conhecimento. Acredito que a verdadeira magia dos dados reside na capacidade de contar histórias e impulsionar decisões estratégicas. Minha experiência prévia em <strong style="color: #FFC107;">vendas de alto impacto</strong> me equipou com uma habilidade única de <strong style="color: #FFC107;">comunicação persuasiva</strong> e de <strong style="color: #FFC107;">traduzir conceitos complexos</strong> para diferentes públicos – uma ponte valiosa entre o mundo técnico e o estratégico.
+  Minha trajetória é movida pela curiosidade e pela vontade constante de aprender. Vejo na análise de dados não apenas números, mas uma ferramenta poderosa para contar histórias e orientar decisões estratégicas. A experiência que adquiri com <strong style="color: #FFC107;">vendas de alto impacto</strong> desenvolveu em mim uma habilidade única de <strong style="color: #FFC107;">comunicação persuasiva</strong> e de <strong style="color: #FFC107;">traduzir conceitos complexos</strong> para públicos diversos — uma ponte essencial entre o universo técnico e o pensamento estratégico.
 </p>
+
 
 <p align="center">
   <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
