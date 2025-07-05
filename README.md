@@ -111,7 +111,7 @@
 
 <h2 align="center" style="color: #FF6B6B;">🌟 Um pouco sobre mim (fora do código)</h2>
 
-<img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="150px" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 
 <p style="font-size: 1.1em; color: #333;">
   Quando não estou explorando dados ou codificando, você provavelmente me encontrará:
@@ -121,6 +121,7 @@
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Cuidando dos meus <strong style="color: #FF6B6B;">gatos</strong> 🐱</li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Imerso no universo dos <strong style="color: #2196F3;">Super-Heróis</strong> 🦸‍♂️</li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Explorando novos <strong style="color: #4CAF50;">jogos</strong> 🎮</li>
+  <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="150px" style="float: right; margin-left: 20px; margin-bottom: 10px;">
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Acompanhando discussões sobre <strong style="color: #9C27B0;">política</strong> 🗳️</li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Planejando a próxima <strong style="color: #FFC107;">viagem</strong> ✈️</li>
 </ul>
