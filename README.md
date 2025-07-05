@@ -1,11 +1,6 @@
-![68747470733a2f2f6e6f7661746f72656d2e62677374617469632e76657263656c2e6170702f6170692f73706f74696679](https://github.com/user-attachments/assets/7a403c92-bd54-4dd5-8d4b-48b3073fb333)
-![Uploading 687474<svg width="480" height="133" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <foreignObject width="480" height="133">
-        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
-            <style>
-                div {
-                    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-                }
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi)
 
 
 
