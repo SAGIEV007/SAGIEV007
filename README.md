@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=100&size=50&pause=1000&color=F79316&width=1200&height=100&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub%F0%9F%90%8D;Welcome+to+my+GitHub+profile%F0%9F%90%8D)](https://git.io/typing-svg)
 
 
 
@@ -8,7 +7,7 @@
 
 <br>
 
-<h1 align="center" style="color: #FF6B6B;">Seja bem vindo(a)! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=100&size=50&pause=1000&color=F79316&width=1200&height=100&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub%F0%9F%90%8D;Welcome+to+my+GitHub+profile%F0%9F%90%8D)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
