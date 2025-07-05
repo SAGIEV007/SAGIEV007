@@ -1,4 +1,4 @@
-![Capa](./assets/capa)
+![Capa](./assets/capa.png)
 
 ![rengoku](./assets/Rengoku.gif)
 
