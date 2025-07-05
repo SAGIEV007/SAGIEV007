@@ -1,4 +1,20 @@
 
+<table>
+  <tr>
+    <td>
+      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
+      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
+      <ul>
+        <li>Cuidando dos meus gatos, Assistindo MUITOS animes, cozinhando ou jogando.</li>
+      </ul>
+    </td>
+    <td width="170px" align="center" valign="top">
+      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="150">
+    </td>
+  </tr>
+</table>
+
+
 
 
 <div align="center">
@@ -128,6 +144,8 @@
     </td>
   </tr>
 </table>
+
+
 <h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
 
 <p align="center" style="font-size: 1.1em; color: #333;">
