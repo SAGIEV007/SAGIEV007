@@ -1,14 +1,6 @@
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
-<p align="center">
-  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/fernandods0/">
-    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
-  </a>
-</p>
 
 <br>
 
@@ -111,6 +103,23 @@
 
 ---
 
+<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
+
+<p align="center" style="font-size: 1.1em; color: #333;">
+  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
+</p>
+
+<p align="center">
+  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/fernandods0/">
+    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
+  </a>
+</p>
+
+---
+
 <table>
   <tr>
     <td>
@@ -151,6 +160,24 @@
     <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="SAGIEV007" />
   </a>
 </div>
+
+<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
+
+<p align="center" style="font-size: 1.1em; color: #333;">
+  Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
+</p>
+
+<p align="center">
+  <a href="mailto:l340fernando@gmail.com" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/fernandods0/">
+    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn">
+  </a>
+</p>
+
+---
+
 
 <br>
 
