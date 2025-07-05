@@ -133,11 +133,13 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
   </tr>
 </table>
 
-### Spotify Playing 🎧
+<h3 align="center">Spotify Playing 🎧</h3>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi)
-
-
+<p align="center">
+  <a href="https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
 ---
 
 <h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
