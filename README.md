@@ -48,30 +48,31 @@
 <p align="center" style="font-size: 1.1em; color: #333;">
   Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:
 </p>
-<div align="center">
-  <a href="https://github.com/SAGIEV007/Mente-Viva">
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="SAGIEV007" />
-  </a>
-</div>
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
     <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
   </li>
   <div align="center">
-  <a href="https://github.com/SAGIEV007/Mente-Viva">
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="SAGIEV007" />
-  </a>
-</div>
+    <a href="https://github.com/SAGIEV007/Mente-Viva"> <!-- Certifique-se de que este é o link correto para o projeto de Análise Exploratória -->
+      <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Mente-Viva Project Card" />
+    </a>
+  </div>
 
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
     <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
   </li>
+  <div align="center">
+    <a href="LINK_DO_REPOSITORIO_DO_CHATBOT"> <!-- SUBSTITUA POR O LINK REAL DO SEU REPOSITÓRIO DO CHATBOT -->
+      <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=NOME_DO_REPOSITORIO_DO_CHATBOT&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Chatbot Project Card" />
+    </a>
+  </div>
 </ul>
 
 <p align="center" style="font-size: 1.2em;">
   🔗 <strong style="color: #FF6B6B;">Explore meu Portfólio para mais detalhes:</strong> <a href="https://fernandofilhods.wixsite.com/portfolio" style="color: #2196F3; text-decoration: none;">https://fernandofilhods.wixsite.com/portfolio</a>
 </p>
+
 
 ---
 
