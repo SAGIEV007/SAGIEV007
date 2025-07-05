@@ -157,15 +157,8 @@
   <img src="https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
 </div>
 
-<br>
-
-
----
-
 
 <br>
-
-<h3 align="center" style="color: #FF6B6B;">Status</h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;">
   <a href="https://github.com/SAGIEV007" style="text-decoration: none;"><img height="180" width="430" src="https://github-readme-stats.vercel.app/api?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false&layout=compact&locale=pt-br" alt="Estatísticas de Fernando Filho no GitHub"/></a><a href="https://github.com/SAGIEV007" style="text-decoration: none;"><img height="180" width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&locale=pt-br" alt="Linguagens Mais Usadas por Fernando Filho"/></a>
