@@ -147,6 +147,14 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
   </tr>
 </table>
 
+---
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi)
+
+
+---
 
 <h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
 
