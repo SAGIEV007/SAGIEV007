@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=900&size=23&pause=1000&color=F79316&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=900&size=40&pause=1000&color=F79316&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+
+
+
 
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
