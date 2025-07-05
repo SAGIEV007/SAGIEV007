@@ -1,11 +1,4 @@
-.btn-101,
-.btn-101 *,
-.btn-101 :after,
-.btn-101 :before,
-.btn-101:after,
-.btn-101:before {
-  border: 0 solid;
-  box-sizing: border-box;
+
 }
 .btn-101 {
   -webkit-tap-highlight-color: transparent;
