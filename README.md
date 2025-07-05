@@ -112,7 +112,7 @@
 <h2 align="center" style="color: #FF6B6B;">🌟 Um pouco sobre mim (fora do código)</h2>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 280px; margin-right: 20px;"> <!-- Conteúdo de texto -->
+  <div style="flex: 1; min-width: 280px; margin-right: 20px;">
     <p style="font-size: 1.1em; color: #333;">
       Quando não estou explorando dados ou codificando, você provavelmente me encontrará:
     </p>
@@ -124,12 +124,13 @@
       <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">Planejando a próxima <strong style="color: #FFC107;">viagem</strong> ✈️</li>
     </ul>
   </div>
-  <div style="flex-shrink: 0;"> <!-- Contêiner para o GIF -->
+  <div style="flex-shrink: 0;">
     <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="150px">
   </div>
 </div>
 
 ---
+
 
 
 
