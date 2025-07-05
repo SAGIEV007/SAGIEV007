@@ -1,21 +1,8 @@
-<a href="https://fernandofilhods.wixsite.com/portfolio" class="btn-101">
-  MEU PORTFÓLIO
-  <svg>
-    <defs>
-      <filter id="glow">
-        <fegaussianblur result="coloredBlur" stddeviation="5"></fegaussianblur>
-        <femerge>
-          <femergenode in="coloredBlur"></femergenode>
-          <femergenode in="coloredBlur"></femergenode>
-          <femergenode in="coloredBlur"></femergenode>
-          <femergenode in="SourceGraphic"></femergenode>
-        </femerge>
-      </filter>
-    </defs>
-    <rect />
-  </svg>
-</a>
-
+<p align="center">
+  <a href="https://fernandofilhods.wixsite.com/portfolio">
+    <img src="https://img.shields.io/badge/MEU-PORTFÓLIO-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
+  </a>
+</p>
 
 
 
