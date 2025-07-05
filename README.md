@@ -1,3 +1,8 @@
+
+https://fernandofilhods.wixsite.com/portfolio"> https://image.pollinations.ai/prompt/stylized%20data%20network,%20portfolio%20connection" alt="Link para Portfólio" width="200">
+https://fernandofilhods.wixsite.com/portfolio" style="background-color: #FF6B6B; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Ver Portfólio
+
+
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
