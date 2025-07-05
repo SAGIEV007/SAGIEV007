@@ -48,6 +48,11 @@
 <p align="center" style="font-size: 1.1em; color: #333;">
   Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:
 </p>
+<div align="center">
+  <a href="https://github.com/SAGIEV007/Mente-Viva">
+    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="SAGIEV007" />
+  </a>
+</div>
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
