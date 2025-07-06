@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/capa" alt="Capa do Perfil" width="100%">
+  <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
 
 <br>
@@ -18,12 +18,12 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 </p>
 
 <p align="center" style="font-size: 1.2em; color: #333;">
-  Minha trajetória é movida pela curiosidade e pela vontade constante de aprender. Vejo na análise de dados não apenas números, mas uma ferramenta poderosa para contar histórias e orientar decisões estratégicas. A experiência que adquiri com <strong style="color: #FFC107;">vendas de alto impacto</strong> desenvolveu em mim uma habilidade única de <strong style="color: #FFC107;">comunicação persuasiva</strong> e de <strong style="color: #FFC107;">traduzir conceitos complexos</strong> para públicos diversos — uma ponte essencial entre o universo técnico e o pensamento estratégico.
+   Minha trajetória é movida pela curiosidade e pela vontade constante de aprender. Vejo na análise de dados não apenas números, mas uma ferramenta poderosa para contar histórias e orientar decisões estratégicas. A experiência que adquiri com <strong style="color: #FFC107;">vendas de alto impacto</strong> desenvolveu em mim uma habilidade única de <strong style="color: #FFC107;">comunicação persuasiva</strong> e de <strong style="color: #FFC107;">traduzir conceitos complexos</strong> para públicos diversos — uma ponte essencial entre o universo técnico e o pensamento estratégico.
 </p>
 
 
 <p align="center">
-  <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
+  <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
 </p>
 
 
@@ -32,22 +32,22 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <h2 align="center" style="color: #FF6B6B;">🚀 O que me move?</h2>
 
 <p align="center">
-  <img src="./assets/rengoku.gif" alt="GIF Rengoku" width="150px">
+  <img src="./assets/rengoku.gif" alt="GIF Rengoku" width="150px">
 </p>
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #2196F3;">Análise de Dados:</strong> Análise de Dados: Investigo conjuntos de informações em busca de padrões, tendências e descobertas que proporcionam conhecimentos relevantes. 📊
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #4CAF50;">Python:</strong> Considero minha linguagem preferida para a manipulação, análise e criação de modelos com dados. Valorizo uma aprendizagem rápida e a aplicação prática no cotidiano. 🐍
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #9C27B0;">Machine Learning:</strong> Aprendizado de Máquina: Tenho entusiasmo pelo potencial dos algoritmos em aprender e realizar previsões. Estou constantemente buscando novas maneiras de aplicar ML em problemas do mundo real. 🤖
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #FFC107;">Comunicação Estratégica:</strong> Comunicação Estratégica: Gosto de transformar resultados técnicos em histórias claras e objetivas, capazes de gerar impacto nos negócios. 🗣️
-  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #2196F3;">Análise de Dados:</strong> Análise de Dados: Investigo conjuntos de informações em busca de padrões, tendências e descobertas que proporcionam conhecimentos relevantes. 📊
+  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #4CAF50;">Python:</strong> Considero minha linguagem preferida para a manipulação, análise e criação de modelos com dados. Valorizo uma aprendizagem rápida e a aplicação prática no cotidiano. 🐍
+  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #9C27B0;">Machine Learning:</strong> Aprendizado de Máquina: Tenho entusiasmo pelo potencial dos algoritmos em aprender e realizar previsões. Estou constantemente buscando novas maneiras de aplicar ML em problemas do mundo real. 🤖
+  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #FFC107;">Comunicação Estratégica:</strong> Comunicação Estratégica: Gosto de transformar resultados técnicos em histórias claras e objetivas, capazes de gerar impacto nos negócios. 🗣️
+  </li>
 </ul>
 
 ---
@@ -61,29 +61,29 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <div align="center">
 
   <div style="margin-bottom: 20px; text-align: center;">
-    <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
-![image](https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2)
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Mente Viva" />
-    </a>
-    <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
-      <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
-    </p>
+     <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
+       <img height="140em" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp">
+       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" />
+     </a>
+     <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
+       <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
+     </p>
   </div>
 
   <div style="margin-bottom: 20px; text-align: center;">
-    <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
-    </a>
-    <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
-      <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
-    </p>
+     <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
+       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
+     </a>
+     <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
+       <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
+     </p>
   </div>
 
 </div>
 
 <p align="center">
   <a href="https://fernandofilhods.wixsite.com/portfolio">
-    <img src="https://img.shields.io/badge/MEU-PORTFÓLIO-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
+     <img src="https://img.shields.io/badge/MEU-PORTFÓLIO-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
   </a>
 </p>
 
@@ -92,45 +92,45 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <h2 align="center" style="color: #FF6B6B;">📚 Habilidades & Ferramentas</h2>
 
 <p align="center">
-  <img src="./assets/pc.gif" alt="GIF PC" width="350px">
+  <img src="./assets/pc.gif" alt="GIF PC" width="350px">
 </p>
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #2196F3;">Linguagens:</strong> Python 🐍
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #4CAF50;">Bibliotecas (Python ):</strong> Pandas, NumPy, Matplotlib, Seaborn 📊
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #9C27B0;">Conceitos:</strong> Análise de Dados, Big Data, Machine Learning (em desenvolvimento), Análise Exploratória de Dados 🧠
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-    <strong style="color: #FFC107;">Soft Skills:</strong> Comunicação Persuasiva, Atendimento ao Cliente, Resolução de Problemas, Aprendizado Contínuo, Proatividade. 🤝
-  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #2196F3;">Linguagens:</strong> Python 🐍
+  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #4CAF50;">Bibliotecas (Python ):</strong> Pandas, NumPy, Matplotlib, Seaborn 📊
+  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #9C27B0;">Conceitos:</strong> Análise de Dados, Big Data, Machine Learning (em desenvolvimento), Análise Exploratória de Dados 🧠
+  </li>
+  <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
+     <strong style="color: #FFC107;">Soft Skills:</strong> Comunicação Persuasiva, Atendimento ao Cliente, Resolução de Problemas, Aprendizado Contínuo, Proatividade. 🤝
+  </li>
 </ul>
 
 <p align="center">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
 </p>
 
 
 <table>
   <tr>
-    <td>
-      <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
-      <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
-      <ul>
-        <li>Cuidando dos meus <strong>gatos</strong> 🐱</li>
-        <li>Assistindo MUITOS animes</strong> 🦸‍♂️</li>
-        <li>Explorando novos <strong>jogos</strong> 🎮</li>
-        <li>Acompanhando discussões sobre <strong>política</strong> 🗳️</li>
-      </ul>
-    </td>
-    <td width="170px" align="center" valign="top">
-      <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="300">
-    </td>
+     <td>
+       <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
+       <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
+       <ul>
+         <li>Cuidando dos meus <strong>gatos</strong> 🐱</li>
+         <li>Assistindo MUITOS animes</strong> 🦸‍♂️</li>
+         <li>Explorando novos <strong>jogos</strong> 🎮</li>
+         <li>Acompanhando discussões sobre <strong>política</strong> 🗳️</li>
+       </ul>
+     </td>
+     <td width="170px" align="center" valign="top">
+       <img src="./assets/Rengoku.gif" alt="GIF Rengoku" width="300">
+     </td>
   </tr>
 </table>
 
@@ -138,7 +138,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 <p align="center">
   <a href="https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
 
@@ -160,13 +160,13 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 <p align="center">:round_pushpin: Contador de visitas</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/SAGIEV007/count.svg">
+     <img alt="visitors counter" src="https://profile-counter.glitch.me/SAGIEV007/count.svg">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
+  <img src="https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
 </div>
 
 
@@ -175,3 +175,4 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;">
   <a href="https://github.com/SAGIEV007" style="text-decoration: none;"><img height="180" width="430" src="https://github-readme-stats.vercel.app/api?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false&layout=compact&locale=pt-br" alt="Estatísticas de Fernando Filho no GitHub"/></a><a href="https://github.com/SAGIEV007" style="text-decoration: none;"><img height="180" width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&locale=pt-br" alt="Linguagens Mais Usadas por Fernando Filho"/></a>
 </div>
+```
