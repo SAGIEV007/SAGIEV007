@@ -2,15 +2,6 @@
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
 
-<h4 align="center" style="font-size: 1.2em;">
-  <strong>Português</strong> | 
-  <a href="README-en.md">English</a> | 
-  <a href="README-es.md">Español</a> | 
-  <a href="README-fr.md">Français</a> | 
-  <a href="README-de.md">Deutsch</a> | 
-  <a href="README-ru.md">Русский</a> | 
-</h4>
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=100&size=50&pause=1000&color=F79316&width=1200&height=100&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub%F0%9F%90%8D;Welcome+to+my+GitHub+profile%F0%9F%90%8D)](https://git.io/typing-svg)
