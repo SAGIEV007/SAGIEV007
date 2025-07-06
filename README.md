@@ -58,24 +58,28 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 </p>
 
 <div align="center">
-  <div style="margin-bottom: 20px; text-align: center;">
-     <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
-       <img width="250px" src="https://github.com/user-attachments/assets/fc7e2aa4-aeec-4bd8-b339-ce8577327923" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
-       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
-     </a>
-     <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
-       <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
-     </p>
+
+  <div style="margin-bottom: 30px; text-align: center;">
+    <div style="margin-bottom: 10px;">
+      <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
+    </div>
+    <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
+    </a>
+    <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
+      <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
+    </p>
   </div>
 
-  <div style="margin-bottom: 20px; text-align: center;">
-    <img width="250px" src="https://github.com/user-attachments/assets/ed3ce7c1-0d1b-4cf4-b5e1-02ca53080951" alt="Mente Viva" style="vertical-align:middle;">
-     <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
-       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
-     </a>
-     <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
-       <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
-     </p>
+  <div style="margin-bottom: 30px; text-align: center;">
+    <div style="margin-bottom: 10px;">
+      <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
+      </a>
+    </div>
+    <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
+      <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
+    </p>
   </div>
 
 </div>
