@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
@@ -62,8 +61,8 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
   <div style="margin-bottom: 20px; text-align: center;">
      <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
-       <img height="140em" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp">
-       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" />
+       <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
+       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
      </a>
      <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
        <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
@@ -175,4 +174,3 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;">
   <a href="https://github.com/SAGIEV007" style="text-decoration: none;"><img height="180" width="430" src="https://github-readme-stats.vercel.app/api?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false&layout=compact&locale=pt-br" alt="Estatísticas de Fernando Filho no GitHub"/></a><a href="https://github.com/SAGIEV007" style="text-decoration: none;"><img height="180" width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAGIEV007&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&locale=pt-br" alt="Linguagens Mais Usadas por Fernando Filho"/></a>
 </div>
-```
