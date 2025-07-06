@@ -125,7 +125,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/SAGIEV007/SAGIEV007/main/assets/Rengoku.gif" alt="GIF Rengoku" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
   
-  <h2 align="left">🌟 Um pouco sobre mim (fora do código)</h2>
+<h2 align="left" style="border-bottom: none;">🌟 Um pouco sobre mim (fora do código)</h2>
   <p>Quando não estou explorando dados ou codificando, você provavelmente me encontrará:</p>
   <ul>
     <li>Cuidando dos meus <strong>gatos</strong> 🐱</li>
