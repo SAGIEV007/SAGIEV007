@@ -77,12 +77,13 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
        <img width="250px" src="https://github.com/SAGIEV007/Mente-Viva/blob/main/assets/imagem_2025-07-05_222237720.png" alt="Imagem do Projeto Mente Viva" style="vertical-align:middle;">
     </div>
     <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
+ <strong style="color: #9C27B0;">Assistente pessoal com agentes de I.A e chatbot que se atualiza com dados da internet em tempo real. 💬
+    </p>
+  </div>
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
     </a>
     <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
-      <strong style="color: #9C27B0;">Criação de Chatbot com Agentes de IA:</strong> Desenvolvido durante a Imersão Alura em parceria com o Google Gemini, explorando o poder da Inteligência Artificial conversacional. 💬
-    </p>
-  </div>
+     
 
 </div>
 
