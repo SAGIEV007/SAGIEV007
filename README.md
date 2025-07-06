@@ -124,14 +124,15 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 </p>
 
 
-<div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/SAGIEV007/SAGIEV007/main/assets/Rengoku.gif" alt="GIF Rengoku" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
   
 ---
+
 <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
 <p align="center">
   <img src="https://raw.githubusercontent.com/SAGIEV007/SAGIEV007/main/assets/Rengoku.gif" alt="GIF Rengoku" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
 </p>
+
+  ---
   
   <p>
     <strong><span style="font-size: 1.5em;">🌟 Um pouco sobre mim (fora do código)</span></strong>
