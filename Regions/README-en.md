@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="./assets/capa" alt="Capa do Perfil" width="100%">
+    <img src="../assets/capa" alt="Profile Cover" width="100%">
 </div>
 
 <h4 align="center" style="font-size: 1.2em;">
-  <a href="README.md">Português</a> | 
+  <a href="../README.md" style="text-decoration: none;">Português</a> | 
   <strong>English</strong> | 
-  <a href="README-es.md">Español</a> | 
-  <a href="README-fr.md">Français</a> | 
-  <a href="README-de.md">Deutsch</a> | 
-  <a href="README-ru.md">Русский</a> | 
-  <a href="README-ja.md">日本語</a> | 
-  <a href="README-zh.md">简体中文</a> | 
-  <a href="README-vi.md">Tiếng Việt</a>
+  <a href="README-es.md" style="text-decoration: none;">Español</a> | 
+  <a href="README-fr.md" style="text-decoration: none;">Français</a> | 
+  <a href="README-de.md" style="text-decoration: none;">Deutsch</a> | 
+  <a href="README-ru.md" style="text-decoration: none;">Русский</a> | 
+  <a href="README-ja.md" style="text-decoration: none;">日本語</a> | 
+  <a href="README-zh.md" style="text-decoration: none;">简体中文</a> | 
+  <a href="README-vi.md" style="text-decoration: none;">Tiếng Việt</a>
 </h4>
 
 <br>
@@ -34,7 +34,7 @@ I have a growing passion for transforming raw data into powerful insights and in
 
 
 <p align="center">
-  <img src="./assets/fon.gif" alt="Welcome GIF" width="300px">
+  <img src="../assets/fon.gif" alt="Welcome GIF" width="300px">
 </p>
 
 
@@ -43,7 +43,7 @@ I have a growing passion for transforming raw data into powerful insights and in
 <h2 align="center" style="color: #FF6B6B;">🚀 What drives me?</h2>
 
 <p align="center">
-  <img src="./assets/rengoku.gif" alt="Rengoku GIF" width="150px">
+  <img src="../assets/rengoku.gif" alt="Rengoku GIF" width="150px">
 </p>
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
@@ -110,7 +110,7 @@ I have a growing passion for transforming raw data into powerful insights and in
 <h2 align="center" style="color: #FF6B6B;">📚 Skills & Tools</h2>
 
 <p align="center">
-  <img src="./assets/pc.gif" alt="PC GIF" width="350px">
+  <img src="../assets/pc.gif" alt="PC GIF" width="350px">
 </p>
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
@@ -135,7 +135,7 @@ I have a growing passion for transforming raw data into powerful insights and in
 
 
 <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/SAGIEV007/SAGIEV007/main/assets/Rengoku.gif" alt="Rengoku GIF" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
+    <img src="../assets/Rengoku.gif" alt="Rengoku GIF" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
   
   <p>
     <strong><span style="font-size: 1.5em;">🌟 A little about me (outside of code)</span></strong>
