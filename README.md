@@ -69,6 +69,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
   </div>
 
   <div style="margin-bottom: 20px; text-align: center;">
+    <img width="250px" src="https://github.com/user-attachments/assets/ed3ce7c1-0d1b-4cf4-b5e1-02ca53080951" alt="Mente Viva" style="vertical-align:middle;">
      <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
      </a>
