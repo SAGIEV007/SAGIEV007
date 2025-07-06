@@ -62,6 +62,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
   <div style="margin-bottom: 20px; text-align: center;">
     <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
+![image](https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2)
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Mente Viva" />
     </a>
     <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
