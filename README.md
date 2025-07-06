@@ -61,8 +61,8 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <div align="center">
 
   <div style="margin-bottom: 20px; text-align: center;">
-    <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Mente Viva" />
+    <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Mente Viva" />
     </a>
     <p style="font-size: 1.1em; color: #333; margin-top: 10px; max-width: 600px;">
       <strong style="color: #2196F3;">Análise Exploratória de Dados:</strong> Um projeto que demonstra minha capacidade de mergulhar em dados, identificar insights e visualizá-los de forma eficaz. 📈
