@@ -78,7 +78,7 @@ I have a growing passion for transforming raw data into powerful insights and in
     <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
   📈 DESCRIPTIVE ANALYSIS, DATA VISUALIZATION, VARIOUS ANALYSES, AND EXTRACTION OF RELEVANT INSIGHTS
 </h2>
-    <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
+        <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Bootcamp Avanti Project Card" style="vertical-align:middle;"/>
     </a>
   </div>
@@ -92,7 +92,7 @@ I have a growing passion for transforming raw data into powerful insights and in
     <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
   💬 PERSONAL ASSISTANT WITH A.I. AGENTS AND A CHATBOT THAT UPDATES WITH REAL-TIME INTERNET DATA
 </h2>
-    <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
+        <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Chatbot Project" />
     </a>
   </div>
@@ -100,7 +100,7 @@ I have a growing passion for transforming raw data into powerful insights and in
 </div>
 
 <p align="center">
-  <a href="https://fernandofilhods.wixsite.com/portfolio">
+    <a href="https://fernandofilhods.wixsite.com/portfolio" style="text-decoration: none;">
      <img src="https://img.shields.io/badge/MY-PORTFOLIO-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link to Portfolio">
   </a>
 </p>
@@ -135,7 +135,7 @@ I have a growing passion for transforming raw data into powerful insights and in
 
 
 <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
-    <img src="../assets/Rengoku.gif" alt="Rengoku GIF" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
+  <img src="../assets/Rengoku.gif" alt="Rengoku GIF" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
   
   <p>
     <strong><span style="font-size: 1.5em;">🌟 A little about me (outside of code)</span></strong>
@@ -153,7 +153,7 @@ I have a growing passion for transforming raw data into powerful insights and in
 <h3 align="center">Spotify Playing 🎧</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi">
+    <a href="https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi" style="text-decoration: none;">
      <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
