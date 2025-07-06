@@ -63,9 +63,9 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
     <div style="margin-bottom: 10px;">
       <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
     </div>
-    <h4 align="center" style="color: #FFC107; max-width: 600px; margin: 15px auto;">
-      Análise descritiva, visualização de dados, análises diversas e extração de insights relevantes. 📈
-    </h4>
+    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
+  📈 ANÁLISE DESCRITIVA, VISUALIZAÇÃO DE DADOS, ANÁLISES DIVERSAS E EXTRAÇÃO DE INSIGHTS RELEVANTES
+</h2>
     <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
     </a>
@@ -77,9 +77,9 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
     <div style="margin-bottom: 10px;">
       <img width="250px" src="https://raw.githubusercontent.com/SAGIEV007/Mente-Viva/main/assets/imagem_2025-07-05_222237720.png" alt="Imagem do Projeto Mente Viva" style="vertical-align:middle;">
     </div>
-     <h4 align="center" style="color: #FFC107; max-width: 600px; margin: 15px auto;">
-      Assistente pessoal com agentes de I.A e chatbot que se atualiza com dados da internet em tempo real. 💬
-    </h4>
+    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
+  💬 ASSISTENTE PESSOAL COM AGENTES DE I.A E CHATBOT QUE SE ATUALIZA COM DADOS DA INTERNET EM TEMPO REAL
+</h2>
     <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
     </a>
