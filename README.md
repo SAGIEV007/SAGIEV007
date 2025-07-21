@@ -71,21 +71,6 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
     <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
     </a>
-  </div>
-  
-  ---
-
-  <div style="margin-bottom: 30px; text-align: center;">
-    <div style="margin-bottom: 10px;">
-      <img width="250px" src="https://raw.githubusercontent.com/SAGIEV007/Mente-Viva/main/assets/imagem_2025-07-05_222237720.png" alt="Imagem do Projeto Mente Viva" style="vertical-align:middle;">
-    </div>
-    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
-  💬 ASSISTENTE PESSOAL COM AGENTES DE I.A E CHATBOT QUE SE ATUALIZA COM DADOS DA INTERNET EM TEMPO REAL
-</h2>
-    <a href="https://github.com/SAGIEV007/Mente-Viva" style="text-decoration: none;">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=mente-viva&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Projeto Chatbot" />
-    </a>
-  </div>
 
 </div>
 
