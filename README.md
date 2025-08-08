@@ -61,6 +61,23 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 <div align="center">
 
+<div style="margin-bottom: 30px; text-align: center;">
+    <div style="margin-bottom: 10px;">
+      <img width="500px" <img width="1719" height="855" alt="image" src="https://github.com/user-attachments/assets/b5e68ee0-ae97-4ea3-b6bd-90925bc68bb1" />
+    </div>
+    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
+  🎮 Jogo em JS com funcionalidades de narração automática em português e de forma dinâmica, é salva a quantidade de tentativas e posteriormente dita ao usuário no momento da vitória.
+</h2>
+    <a href="https://github.com/SAGIEV007/Jogo-do-Numero-Secreto" style="text-decoration: none;">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Jogo-do-Numero-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
+    </a>
+
+
+
+---
+
+
+
   <div style="margin-bottom: 30px; text-align: center;">
     <div style="margin-bottom: 10px;">
       <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
@@ -106,7 +123,9 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
+  <img alt="JS" src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" width="100" title="JS">
 </p>
+
 
 
 <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
