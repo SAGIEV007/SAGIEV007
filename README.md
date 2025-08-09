@@ -53,13 +53,24 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 ---
 
-<h2 align="center" style="color: #FF6B6B;">✨ Meus Projetos em Destaque</h2>
+<h2 align="center" style="color: #FF6B6B;">✨ Meus Projetos em Destaque
+Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:</h2>
 
-<p align="center" style="font-size: 1.1em; color: #333;">
-  Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:
-</p>
 
 <div align="center">
+
+  <div style="margin-bottom: 30px; text-align: center;">
+    <div style="margin-bottom: 10px;">
+      <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
+    </div>
+    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
+  📈 ANÁLISE DESCRITIVA, VISUALIZAÇÃO DE DADOS, ANÁLISES DIVERSAS E EXTRAÇÃO DE INSIGHTS RELEVANTES
+</h2>
+    <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
+    </a>
+    
+---
 
 <div style="margin-bottom: 30px; text-align: center;">
     <div style="margin-bottom: 10px;">
@@ -72,23 +83,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
       <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Jogo-do-Numero-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
     </a>
 
-
-
 ---
-
-
-
-  <div style="margin-bottom: 30px; text-align: center;">
-    <div style="margin-bottom: 10px;">
-      <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
-    </div>
-    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
-  📈 ANÁLISE DESCRITIVA, VISUALIZAÇÃO DE DADOS, ANÁLISES DIVERSAS E EXTRAÇÃO DE INSIGHTS RELEVANTES
-</h2>
-    <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
-    </a>
-
 </div>
 
 <p align="center">
