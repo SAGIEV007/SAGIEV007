@@ -62,8 +62,8 @@ Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e m
   <div style="margin-bottom: 30px; text-align: center;">
     <div style="margin-bottom: 10px;">
       <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
+      <img width="600px" src="https://github.com/user-attachments/assets/ff260bb9-c369-48eb-9363-abaacfcea29c" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:left;">
     </div>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff260bb9-c369-48eb-9363-abaacfcea29c" />
     <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
   📈 ANÁLISE DESCRITIVA, VISUALIZAÇÃO DE DADOS, ANÁLISES DIVERSAS E EXTRAÇÃO DE INSIGHTS RELEVANTES
 </h2>
