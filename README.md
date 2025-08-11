@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <img src="./assets/capa" alt="Capa do Perfil" width="100%">
 </div>
@@ -8,25 +6,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Mono&weight=100&size=50&pause=1000&color=F79316&width=1200&height=100&lines=Seja+bem+vindo(a)+ao+meu+perfil+no+GitHub%F0%9F%90%8D;Welcome+to+my+GitHub+profile%F0%9F%90%8D)](https://git.io/typing-svg)
 
-
 ---
 
 <h2 align="center" style="color: #FF6B6B;">🙃 Quem sou eu?</h2>
-
 
 <p align="center" style="font-size: 1.2em; color: #333;">
 Tenho uma paixão crescente por transformar dados brutos em insights poderosos e soluções inovadoras. Atualmente, estou imerso no universo da <strong style="color: #2196F3;">Ciência de Dados</strong> na Universidade de Marília, com um olhar sempre atento às possibilidades do <strong style="color: #4CAF50;">Machine Learning</strong> e da <strong style="color: #9C27B0;">Inteligência Artificial</strong>.
 </p>
 
 <p align="center" style="font-size: 1.2em; color: #333;">
-   Minha trajetória é movida pela curiosidade e pela vontade constante de aprender. Vejo na análise de dados não apenas números, mas uma ferramenta poderosa para contar histórias e orientar decisões estratégicas. A experiência que adquiri com <strong style="color: #FFC107;">vendas de alto impacto</strong> desenvolveu em mim uma habilidade única de <strong style="color: #FFC107;">comunicação persuasiva</strong> e de <strong style="color: #FFC107;">traduzir conceitos complexos</strong> para públicos diversos — uma ponte essencial entre o universo técnico e o pensamento estratégico.
+    Minha trajetória é movida pela curiosidade e pela vontade constante de aprender. Vejo na análise de dados não apenas números, mas uma ferramenta poderosa para contar histórias e orientar decisões estratégicas. A experiência que adquiri com <strong style="color: #FFC107;">vendas de alto impacto</strong> desenvolveu em mim uma habilidade única de <strong style="color: #FFC107;">comunicação persuasiva</strong> e de <strong style="color: #FFC107;">traduzir conceitos complexos</strong> para públicos diversos — uma ponte essencial entre o universo técnico e o pensamento estratégico.
 </p>
-
 
 <p align="center">
   <img src="./assets/fon.gif" alt="GIF de Boas-Vindas" width="300px">
 </p>
-
 
 ---
 
@@ -38,58 +32,80 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #2196F3;">Análise de Dados:</strong> Análise de Dados: Investigo conjuntos de informações em busca de padrões, tendências e descobertas que proporcionam conhecimentos relevantes. 📊
+      <strong style="color: #2196F3;">Análise de Dados:</strong> Análise de Dados: Investigo conjuntos de informações em busca de padrões, tendências e descobertas que proporcionam conhecimentos relevantes. 📊
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #4CAF50;">Python:</strong> Considero minha linguagem preferida para a manipulação, análise e criação de modelos com dados. Valorizo uma aprendizagem rápida e a aplicação prática no cotidiano. 🐍
+      <strong style="color: #4CAF50;">Python:</strong> Considero minha linguagem preferida para a manipulação, análise e criação de modelos com dados. Valorizo uma aprendizagem rápida e a aplicação prática no cotidiano. 🐍
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #9C27B0;">Machine Learning:</strong> Aprendizado de Máquina: Tenho entusiasmo pelo potencial dos algoritmos em aprender e realizar previsões. Estou constantemente buscando novas maneiras de aplicar ML em problemas do mundo real. 🤖
+      <strong style="color: #9C27B0;">Machine Learning:</strong> Aprendizado de Máquina: Tenho entusiasmo pelo potencial dos algoritmos em aprender e realizar previsões. Estou constantemente buscando novas maneiras de aplicar ML em problemas do mundo real. 🤖
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #FFC107;">Comunicação Estratégica:</strong> Comunicação Estratégica: Gosto de transformar resultados técnicos em histórias claras e objetivas, capazes de gerar impacto nos negócios. 🗣️
+      <strong style="color: #FFC107;">Comunicação Estratégica:</strong> Comunicação Estratégica: Gosto de transformar resultados técnicos em histórias claras e objetivas, capazes de gerar impacto nos negócios. 🗣️
   </li>
 </ul>
 
 ---
 
-<h2 align="center" style="color: #FF6B6B;">✨ Meus Projetos em Destaque
-Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:</h2>
+<h2 align="center" style="color: #FF6B6B;">✨ Meus Projetos em Destaque</h2>
 
+<p align="center">Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:</p>
 
-<div align="center">
+<br>
 
-  <div style="margin-bottom: 30px; text-align: center;">
-    <div style="margin-bottom: 10px;">
-      <img width="250px" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:middle;">
-      <img width="600px" src="https://github.com/user-attachments/assets/ff260bb9-c369-48eb-9363-abaacfcea29c" alt="Imagem do Projeto Avanti Bootcamp" style="vertical-align:left;">
-    </div>
-    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
-  📈 ANÁLISE DESCRITIVA, VISUALIZAÇÃO DE DADOS, ANÁLISES DIVERSAS E EXTRAÇÃO DE INSIGHTS RELEVANTES
-</h2>
-    <a href="https://github.com/SAGIEV007/Bootcamp-Avanti" style="text-decoration: none;">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
-    </a>
-    
----
-
-<div style="margin-bottom: 30px; text-align: center;">
-    <div style="margin-bottom: 10px;">
-      <img width="500px" <img width="1719" height="855" alt="image" src="https://github.com/user-attachments/assets/b5e68ee0-ae97-4ea3-b6bd-90925bc68bb1" />
-    </div>
-    <h2 align="center" style="color: #FFC107; font-size: 28px; font-weight: bold; margin: 20px 0;">
-  🎮 Jogo em JS com funcionalidades de narração automática em português e de forma dinâmica, é salva a quantidade de tentativas e posteriormente dita ao usuário no momento da vitória.
-</h2>
-    <a href="https://github.com/SAGIEV007/Jogo-do-Numero-Secreto" style="text-decoration: none;">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Jogo-do-Numero-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="Card do Projeto Bootcamp Avanti" style="vertical-align:middle;"/>
-    </a>
-
----
-</div>
+<table border="0" align="center">
+  <tr align="center">
+    <td width="33%" style="vertical-align: top;">
+      <p align="center">
+        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Preview do Projeto Avanti">
+      </p>
+      <p align="center"><b>Análise e Modelagem Preditiva</b></p>
+      <p align="center">Projeto completo do Bootcamp Avanti, cobrindo EDA e comparação de modelos de ML em um dataset de veículos.</p>
+      <a href="https://github.com/SAGIEV007/Bootcamp-Avanti">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+      </p>
+    </td>
+    <td width="33%" style="vertical-align: top;">
+      <p align="center">
+        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/b5e68ee0-ae97-4ea3-b6bd-90925bc68bb1" alt="Preview do Jogo do Número Secreto">
+      </p>
+      <p align="center"><b>Jogo do Número Secreto</b></p>
+      <p align="center">Jogo de adivinhação com lógica de maior/menor e reconhecimento de voz, desenvolvido com JavaScript puro.</p>
+      <a href="https://github.com/SAGIEV007/Jogo-do-Numero-Secreto">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Jogo-do-Numero-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+    </td>
+     <td width="33%" style="vertical-align: top;">
+      <p align="center">
+        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/e55f648f-dd09-4516-9e06-e1379daa8f77" alt="Preview do Sorteador de Amigo Secreto">
+      </p>
+      <p align="center"><b>Sorteador de Amigo Secreto</b></p>
+      <p align="center">Aplicação web interativa para sorteios, com validação de entradas e proteção contra nomes duplicados.</p>
+      <a href="https://github.com/SAGIEV007/Amigo-Secreto">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Amigo-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://fernandofilhods.wixsite.com/portfolio">
-     <img src="https://img.shields.io/badge/MEU-PORTFÓLIO-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
+      <img src="https://img.shields.io/badge/VER-MAIS-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
   </a>
 </p>
 
@@ -103,32 +119,35 @@ Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e m
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #2196F3;">Linguagens:</strong> Python 🐍
+      <strong style="color: #2196F3;">Linguagens:</strong> Python 🐍
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #4CAF50;">Bibliotecas (Python ):</strong> Pandas, NumPy, Matplotlib, Seaborn 📊
+      <strong style="color: #4CAF50;">Bibliotecas (Python ):</strong> Pandas, NumPy, Matplotlib, Seaborn 📊
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #9C27B0;">Conceitos:</strong> Análise de Dados, Big Data, Machine Learning (em desenvolvimento), Análise Exploratória de Dados 🧠
+      <strong style="color: #9C27B0;">Conceitos:</strong> Análise de Dados, Big Data, Machine Learning (em desenvolvimento), Análise Exploratória de Dados 🧠
   </li>
   <li style="margin-bottom: 10px; font-size: 1.1em; color: #333;">
-     <strong style="color: #FFC107;">Soft Skills:</strong> Comunicação Persuasiva, Atendimento ao Cliente, Resolução de Problemas, Aprendizado Contínuo, Proatividade. 🤝
+      <strong style="color: #FFC107;">Soft Skills:</strong> Comunicação Persuasiva, Atendimento ao Cliente, Resolução de Problemas, Aprendizado Contínuo, Proatividade. 🤝
   </li>
 </ul>
 
 <p align="center">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
-  <img alt="JS" src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" width="100" title="JS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-891823?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
-
-
 
 <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/SAGIEV007/SAGIEV007/main/assets/Rengoku.gif" alt="GIF Rengoku" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
 
-
-  
   <p>
     <strong><span style="font-size: 1.5em;">🌟 Um pouco sobre mim (fora do código)</span></strong>
   </p>
@@ -146,7 +165,7 @@ Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e m
 
 <p align="center">
   <a href="https://open.spotify.com/user/222fmdmy3ppcrgm547l2kzxwi">
-     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+      <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
 
@@ -159,7 +178,10 @@ Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e m
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernandods0/" style="margin-right: 30px; text-decoration: none;"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="LinkedIn"></a><a href="mailto:l340fernando@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="Gmail"></a>
+  <a href="https://www.linkedin.com/in/fernandods0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:l340fernando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/fernando_filho_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.duolingo.com/profile/SAGIEV007"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo"></a>
 </p>
 
 ---
@@ -178,7 +200,6 @@ Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e m
 <div align="center">
   <img src="https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
 </div>
-
 
 <br>
 
