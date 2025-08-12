@@ -8,6 +8,85 @@
 
 ---
 
+<h2 align="center" style="color: #FF6B6B;">✨ Meus Projetos em Destaque</h2>
+
+<p align="center">Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:</p>
+
+<br>
+
+<table border="0" align="center">
+  <tr align="center">
+    <td width="33%" style="vertical-align: top;">
+      <p align="center">
+        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Preview do Projeto Avanti">
+      </p>
+      <p align="center"><b>Análise e Modelagem Preditiva</b></p>
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=m0VfKA0_Zwk">
+            <img src="https://img.shields.io/badge/-Ver%20Apresentação-red?style=for-the-badge&logo=youtube" alt="Apresentação em Vídeo">
+        </a>
+      </p>
+      <p align="center"> Análise exploratória de dados e comparação de modelos de Machine Learning em um dataset de veículos.</p>
+      <a href="https://github.com/SAGIEV007/Bootcamp-Avanti">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+      </p>
+    </td>
+    <td width="33%" style="vertical-align: top;">
+      <p align="center">
+        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/b5e68ee0-ae97-4ea3-b6bd-90925bc68bb1" alt="Preview do Jogo do Número Secreto">
+      </p>
+      <p align="center"><b>Jogo do Número Secreto</b></p>
+      <p align="center">
+        <a href="https://numero-secreto-nine-smoky.vercel.app">
+            <img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge" alt="Live Demo">
+        </a>
+      </p>
+      <p align="center">Jogo de adivinhação com lógica de maior/menor e reconhecimento de voz, desenvolvido com JavaScript puro.</p>
+      <a href="https://github.com/SAGIEV007/Jogo-do-Numero-Secreto">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Jogo-do-Numero-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+    </td>
+     <td width="33%" style="vertical-align: top;">
+      <p align="center">
+        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/e55f648f-dd09-4516-9e06-e1379daa8f77" alt="Preview do Sorteador de Amigo Secreto">
+      </p>
+      <p align="center"><b>Sorteador de Amigo Secreto</b></p>
+      <p align="center">
+        <a href="https://amigo-secreto-ecru-psi.vercel.app/">
+            <img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge" alt="Live Demo">
+        </a>
+      </p>
+      <p align="center">Aplicação web interativa para sorteios, com validação de entradas e proteção contra nomes duplicados.</p>
+      <a href="https://github.com/SAGIEV007/Amigo-Secreto">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Amigo-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://fernandofilhods.wixsite.com/portfolio">
+      <img src="https://img.shields.io/badge/VER-MAIS-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
+  </a>
+</p>
+
+---
+
 <h2 align="center" style="color: #FF6B6B;">🙃 Quem sou eu?</h2>
 
 <p align="center" style="font-size: 1.2em; color: #333;">
@@ -47,70 +126,6 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 ---
 
-<h2 align="center" style="color: #FF6B6B;">✨ Meus Projetos em Destaque</h2>
-
-<p align="center">Aqui você encontrará alguns dos meus projetos que refletem meu aprendizado e minhas paixões. Cada um deles é um passo na minha jornada para dominar a arte da Ciência de Dados:</p>
-
-<br>
-
-<table border="0" align="center">
-  <tr align="center">
-    <td width="33%" style="vertical-align: top;">
-      <p align="center">
-        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/9e07d338-a3f4-4703-8705-3fd89cfb78e2" alt="Preview do Projeto Avanti">
-      </p>
-      <p align="center"><b>Análise e Modelagem Preditiva</b></p>
-      <p align="center">Projeto completo do Bootcamp Avanti, cobrindo EDA e comparação de modelos de ML em um dataset de veículos.</p>
-      <a href="https://github.com/SAGIEV007/Bootcamp-Avanti">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-      </p>
-    </td>
-    <td width="33%" style="vertical-align: top;">
-      <p align="center">
-        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/b5e68ee0-ae97-4ea3-b6bd-90925bc68bb1" alt="Preview do Jogo do Número Secreto">
-      </p>
-      <p align="center"><b>Jogo do Número Secreto</b></p>
-      <p align="center">Jogo de adivinhação com lógica de maior/menor e reconhecimento de voz, desenvolvido com JavaScript puro.</p>
-      <a href="https://github.com/SAGIEV007/Jogo-do-Numero-Secreto">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Jogo-do-Numero-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      </p>
-    </td>
-     <td width="33%" style="vertical-align: top;">
-      <p align="center">
-        <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/user-attachments/assets/e55f648f-dd09-4516-9e06-e1379daa8f77" alt="Preview do Sorteador de Amigo Secreto">
-      </p>
-      <p align="center"><b>Sorteador de Amigo Secreto</b></p>
-      <p align="center">Aplicação web interativa para sorteios, com validação de entradas e proteção contra nomes duplicados.</p>
-      <a href="https://github.com/SAGIEV007/Amigo-Secreto">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Amigo-Secreto&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://fernandofilhods.wixsite.com/portfolio">
-      <img src="https://img.shields.io/badge/VER-MAIS-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Link para o Portfólio">
-  </a>
-</p>
-
----
-
 <h2 align="center" style="color: #FF6B6B;">📚 Habilidades & Ferramentas</h2>
 
 <p align="center">
@@ -144,6 +159,8 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
+
+---
 
 <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/SAGIEV007/SAGIEV007/main/assets/Rengoku.gif" alt="GIF Rengoku" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;">
