@@ -26,7 +26,7 @@
             <img src="https://img.shields.io/badge/-Ver%20Apresentação-red?style=for-the-badge&logo=youtube" alt="Apresentação em Vídeo">
         </a>
       </p>
-      <p align="center"> Análise exploratória de dados e comparação de modelos de Machine Learning em um dataset de veículos.</p>
+      <p align="center">Projeto completo do Bootcamp Avanti, cobrindo EDA e comparação de modelos de ML em um dataset de veículos.</p>
       <a href="https://github.com/SAGIEV007/Bootcamp-Avanti">
         <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SAGIEV007&repo=Bootcamp-Avanti&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
       </a>
@@ -42,7 +42,7 @@
       </p>
       <p align="center"><b>Jogo do Número Secreto</b></p>
       <p align="center">
-        <a href="https://numero-secreto-nine-smoky.vercel.app">
+        <a href="https://numero-secreto-nine-smoky.vercel.app/">
             <img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge" alt="Live Demo">
         </a>
       </p>
@@ -188,7 +188,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
 
 ---
 
-<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar e conectar</h2>
+<h2 align="center" style="color: #FF6B6B;">🌱 Onde me encontrar</h2>
 
 <p align="center" style="font-size: 1.1em; color: #333;">
   Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me contatar!
@@ -198,6 +198,7 @@ Tenho uma paixão crescente por transformar dados brutos em insights poderosos e
   <a href="https://www.linkedin.com/in/fernandods0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:l340fernando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/fernando_filho_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.hackerrank.com/profile/l340fernando"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
   <a href="https://www.duolingo.com/profile/SAGIEV007"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo"></a>
 </p>
 
